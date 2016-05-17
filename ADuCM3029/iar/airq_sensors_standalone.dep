@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>4175782638</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\adc\adi_adc_v1.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_adc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\adc\adi_adc_data_v1.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\airq_sensors_standalone.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\tmr\adi_tmr_v1.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\tmr\adi_tmr_def_v1.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\ADuCM3029_cdef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_uart.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\gpio\adi_gpio_v1.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\wdt\adi_wdt_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\int\adi_int.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\system.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_tmr.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_rtc.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\config\linker\AnalogDevices\ADuCM3029.icf</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\tmr\adi_tmr_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\startup.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_adc.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\uart\adi_uart_def_v1.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\wdt\adi_wdt_v1.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\pwr\adi_pwr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_wdt.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\drivers\uart\adi_uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_wdt_config.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_adc.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\wdt\adi_wdt.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\adi_types.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\sys\platform.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_adc_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\adc\adi_adc_def_v1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_rtc.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_tmr.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\dma\adi_dma_pl230_v2.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\uart\adi_uart.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\airq_sensors_standalone.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_wdt.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_tmr_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\dma\adi_dma.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\gpio\adi_gpio_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\sys\ADuCM302x_cdef.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\pwr\adi_pwr_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\ADuCM3029.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_uart_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\tmr\adi_tmr.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_uart.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_wdt.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\ssdd_common\common_def.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\device.h</file>
+      <file>$PROJ_DIR$\..\..\airq_sensors_standalone.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\gpio\adi_gpio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_gpio.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\adc\adi_adc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_global_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\gpio\adi_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\pwr\adi_pwr.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_rtc.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\dma\adi_dma.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_dma.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\airq_sensors_standalone.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\common.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\drivers\uart\adi_uart_v1.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yfuns.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\drivers\adc\adi_adc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_tmr.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\uart\adi_uart_data_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\wdt\adi_wdt.h</file>
+      <file>$PROJ_DIR$\..\..\Readme_airq_sensors_standalone.html</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_pwr.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\common.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\drivers\adc\adi_adc_v1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_dma.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\wdt\adi_wdt_def_v1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_pwr.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_dma.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\gpio\adi_gpio_def_v1.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\tmr\adi_tmr.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\system.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_rtc_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\pwr\adi_pwr_def_v1.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\rtc\adi_rtc_v1.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\config\adi_pwr_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\pwr\adi_pwr_v1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\common.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\uart\adi_uart_v1.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_gpio.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\sys\ADuCM302x_typedefs.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\ADuCM3029_device.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\rtc\adi_rtc_data_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\rtc\adi_rtc_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\services\rtc\adi_rtc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\tmr\adi_tmr_data_v1.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\adi_processor.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\rtc\adi_rtc_def_v1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\airq_sensors_standalone.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\sys\ADuCM302x_device.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\airq_sensors_standalone.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_pwr.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\common.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adi_uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\airq_sensors_standalone.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\common.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\dma\adi_dma_pl230_v2.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\inc\sys\ADuCM302x.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\rtc\adi_rtc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\startup.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 124</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\system.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125 39 76 82 120 111 127 136 72 123 128 17 35 122 14 56 12 68 101 117 99 0 121 112 54 135 62 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 35 99 125 76 14 122 0 101 121 82 39 123 117 56 12 54 135 112 120 111 127 128 62 136 25 17 72</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\wdt\adi_wdt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 127 120 99 117 16 56 12 68 35 0 121 39 112 54 135 125 122 76 14 128 66 88 72 30 36 111 25 136 17 63 95 82 59 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 16 66 82 59 17 72 39 123 121 63 88 30 36 95</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\uart\adi_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127 136 50 109 56 12 120 123 99 39 112 54 135 68 35 0 111 25 63 17 66 117 125 122 76 14 128 62 57 34 87 72 81 121 20 31 82 59 45 106 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 109 57 72 63 17 39 123 34 81 121 82 66 59 20 50 45 31 106 87 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\tmr\adi_tmr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116 72 127 120 35 68 99 117 82 26 56 12 122 14 128 62 100 112 54 135 125 76 20 8 39 17 6 0 111 25 136 66 63 59 7 49 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 26 66 82 59 20 100 7 17 72 39 123 49 63 8 116 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\airq_sensors_standalone.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 56 115 35 66 117 100 122 14 82 68 12 39 17 133 67 125 76 6 34 30 136 20 51 101 31 85 79 99 0 69 121 88 127 120 111 25 81 7 49 72 59 112 54 135 128 62 36 123 50 45 106 15 92 41 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 35 99 125 76 14 122 0 51 82 69 133 6 121 66 59 88 117 56 12 54 135 112 120 111 127 128 62 136 25 30 39 123 17 72 36 34 81 20 50 45 31 106 57 101 100 7 49 67 15 85 92 41 115 104 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\drivers\adc\adi_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 17 42 127 0 99 111 50 123 72 63 1 56 12 35 25 117 112 54 135 120 136 20 45 64 85 125 122 76 14 128 62 40 66 41 4 92 39 82 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 1 85 92 39 123 17 72 41 50 45 40 64 20 66 82 59 63 42 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\gpio\adi_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 94</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 127 120 63 72 15 53 56 12 68 35 0 111 136 39 112 54 135 125 122 76 14 25 121 98 117 128 62 17 20 67 123 82</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 53 17 72 39 123 121 82 20 63 67 15 98</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\pwr\adi_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 127 120 35 72 55 56 12 68 136 31 99 39 112 54 135 0 111 25 17 103 82 117 125 122 76 14 128 62 6 63 105 67 123 121 106 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 55 6 82 17 72 39 123 101 121 63 103 105 31 106 67 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\dma\adi_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 68 72 35 127 120 0 99 111 66 134 56 12 25 117 112 54 135 136 50 45 125 122 76 14 128 62 20 63 39 123 82 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 134 17 72 39 123 66 82 59 20 50 45 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\common.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 35 51 99 59 39 121 88 122 14 69 82 112 54 125 76 135 120 111 68 17 81 31 6 66 34 0 117 30 56 12 127 136 20 57 133 128 62 36 123 72 50 45 106</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133 68 35 99 125 76 14 122 0 51 82 69 6 121 66 59 88 117 56 12 54 135 112 120 111 127 128 62 136 25 30 39 123 17 72 36 34 81 20 50 45 31 106 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\airq_sensors_standalone.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 24 2 97 70 126 75 86 13 32 47 80 52 3 22 9 10 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\services\rtc\adi_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 127 122 14 128 62 63 99 104 114 56 12 130 17 39 112 54 135 125 76 20 113 82 123 117 6 72 68 120 0 111 25 136 66 115 84 59 118 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 114 6 82 20 66 59 63 17 72 39 123 115 104 130 84 113 118 102</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\..\..\..\..\Analog Devices\ADuCM302x\ADuCM302x_EZ_Kit_Lite\src\startup.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 0 39 72 56 12 99 35 117 127 120 136 101 112 54 135 125 122 111 25 123 82 27 76 14 128 62 121</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27 117 56 12 54 135 112 68 35 99 125 76 14 122 0 120 111 127 128 62 136 25 39 123 72 101 121 82</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
